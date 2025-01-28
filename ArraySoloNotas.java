@@ -16,7 +16,6 @@ public class ArraySoloNotas {
 			System.out.println("Nombre del alumno nº: " + contador);
 				String nombre = scan.nextLine();  
 			boolean esCorrecto=false;	
-			
 		while(!esCorrecto){
 			try{
 				System.out.println("Introduce la nota:"); 
